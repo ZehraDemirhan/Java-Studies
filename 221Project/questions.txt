@@ -1,0 +1,10 @@
+When did world war 2 started,b,1923%1918%2000
+What is your name,a,zehra%orhun%,gül
+Does it working well,c,yes%no%hope So
+How did world war 2 started,b,1923%1918%2000
+Why is your name,a,zehra%orhun%,gül
+Is it working badd,c,yes%no%hope So
+When did space war 2 started,b,1923%1918%2000
+What is your age,a,zehra%orhun%,gül
+Not working well,c,yes%no%hope So
+Final line,c,yes%no%hope So
